@@ -1,5 +1,5 @@
 ## DAO system
-Study project made with help of a Java programming course
+Study project with database made with help of a Java programming course
 #### ✅ Database configuration
 #### ✅ Creating classes
 #### ✅ Conection with database
